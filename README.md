@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BenKalamaro
-- 🌱 I’m currently a student a The Open University of Israel, i study Computer Science
+- 🌱 I’m currently a student a The Open University of Israel, I study Computer Science
 - 💞️ I’m looking to collaborate on C projects
 - 📫 How to reach me benkalamaro@gmail.com
